@@ -1,0 +1,8 @@
+[32minfo[39m: Database connection established successfully {"timestamp":"2025-06-27T09:19:00.031Z"}
+[32minfo[39m: Database synchronized successfully {"timestamp":"2025-06-27T09:19:00.920Z"}
+[32minfo[39m: Server running on port 3000 {"timestamp":"2025-06-27T09:19:00.922Z"}
+[32minfo[39m: Swagger docs available at http://localhost:3000/api-docs {"timestamp":"2025-06-27T09:19:00.922Z"}
+[32minfo[39m: Database connection established successfully {"timestamp":"2025-06-27T09:43:06.512Z"}
+[32minfo[39m: Database synchronized successfully {"timestamp":"2025-06-27T09:43:06.988Z"}
+[32minfo[39m: Server running on port 3000 {"timestamp":"2025-06-27T09:43:06.989Z"}
+[32minfo[39m: Swagger docs available at http://localhost:3000/api-docs {"timestamp":"2025-06-27T09:43:06.989Z"}
